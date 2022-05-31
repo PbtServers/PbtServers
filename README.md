@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Minecraft Plugins
 - 📫 How to reach me: (pbt@pbtservers.com)
 
-[![alt text](https://github.com/PbtServers/PbtServers/blob/main/PbtPlugin.png?raw=true)
+![alt text](https://github.com/PbtServers/PbtServers/blob/main/PbtPlugin.png?raw=true)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T2CB7E1)
 
