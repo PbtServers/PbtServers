@@ -1,10 +1,10 @@
 # 💫About Me :
 
-    👋 Hi, I’m Pbt
+    👋 Hi, I’m PbtinaDev
     👀 I’m interested in Minecraft Servers
     🌱 I’m currently learning Java
     💞️ I’m looking to collaborate on Minecraft Plugins
-    📫 How to reach me: (pbt@pbtservers.com)
+    📫 How to reach me: (https://pbtservers.com/contact)
 
 ![alt text](https://github.com/PbtServers/PbtServers/blob/main/PbtPlugin.png?raw=true)
 
@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=PbtServers&icon=0&color=2)](https://visitcount.itsvg.in)
 
   ## 💰You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/PbtServers) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pbtservers) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PbtSystemsHost) 
 
 <!---
 PbtServers/PbtServers (This File can Change at any Moment)
